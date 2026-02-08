@@ -1,27 +1,4 @@
-# 🚀 DevOps Engineer
 
-## 🛠️ Tech Stack
-- **Cloud:** AWS | GCP | Azure
-- **Containers:** Docker | Kubernetes
-- **IaC:** Terraform | Ansible
-- **CI/CD:** Jenkins | GitLab CI | GitHub Actions
-- **Monitoring:** Prometheus | Grafana | ELK
-
-## 📁 Projects
-- **K8s Production Cluster** - HA Kubernetes with monitoring
-- **Cloud Infrastructure** - Automated AWS setup with Terraform
-- **CI/CD Pipeline** - Full automation from code to production
-
-## 📫 Contact
-- **Email:** devops@example.com
-- **GitHub:** [@username](https://github.com/username)
-- **LinkedIn:** [Profile](https://linkedin.com/in/profile)
-
----
-
-## 📜 Version 2 (с иконками)
-
-```markdown
 # DevOps Engineer
 
 ## 🛠 Tech Stack
