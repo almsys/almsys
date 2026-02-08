@@ -7,7 +7,7 @@
 - CI/CD: Jenkins, GitLab
 
 ## Contact
-- Email: almastvx@gmail.com
+- Email: almastv7@gmail.com
 - GitHub: github.com/almsys
 
 > Infrastructure as Code | Automation | Cloud
