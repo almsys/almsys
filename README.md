@@ -1,4 +1,4 @@
-# 👋 Привет, я [Ваше Имя] - DevOps Engineer
+# 👋 Привет, я Алмас - DevOps Engineer
 
 ![DevOps Banner](https://img.shields.io/badge/DevOps-Engineer-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green)
