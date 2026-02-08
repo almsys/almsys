@@ -1,8 +1,3 @@
-# README.md для DevOps-инженера
-
-Вот подробный шаблон README.md для главной страницы профиля DevOps-инженера:
-
-```markdown
 # 👋 Привет, я [Ваше Имя] - DevOps Engineer
 
 ![DevOps Banner](https://img.shields.io/badge/DevOps-Engineer-blue)
