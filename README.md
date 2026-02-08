@@ -1,15 +1,13 @@
+# DevOps
 
-# DevOps Engineer
-**Automating infrastructure | Building reliable systems**
+## Skills
+- Cloud: AWS, GCP
+- Containers: Docker, K8s
+- IaC: Terraform
+- CI/CD: Jenkins, GitLab
 
-## 🔧 Core Skills
-- **Infrastructure:** Terraform, AWS, Kubernetes
-- **Automation:** CI/CD pipelines, Ansible, Python scripts
-- **Monitoring:** Prometheus, Grafana, Alerting
+## Contact
+- Email: almastvx@gmail.com
+- GitHub: github.com/almsys
 
-## 📬 Get in touch
-- Email: hi@example.com
-- [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
-
-
-
+> Infrastructure as Code | Automation | Cloud
