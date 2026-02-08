@@ -11,28 +11,5 @@
 - Email: hi@example.com
 - [GitHub](https://github.com) | [LinkedIn](https://linkedin.com)
 
-*Open to interesting projects*
-```
 
-## 📜 Version 5 (Terminal-style)
 
-```markdown
-# $ whoami
-devops-engineer
-
-# $ skills
-├── cloud: aws gcp azure
-├── containers: docker kubernetes
-├── iac: terraform ansible
-└── ci/cd: jenkins gitlab-ci
-
-# $ contact
-├── email: user@domain.com
-├── github: github.com/user
-└── linkedin: linkedin.com/in/user
-
-# $ cat philosophy.txt
-automate everything | infrastructure as code
-```
-
-**Совет:** Самый минимальный вариант — это просто список технологий и контактов. Но даже в минимальном README лучше показать не только "что вы знаете", но и "что вы с этим делали" — хотя бы 1-2 примера проектов или достижений.
