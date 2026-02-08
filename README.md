@@ -1,7 +1,7 @@
 # DevOps
 
 ## Skills
-- Cloud: AWS, GCP
+- Cloud: AWS
 - Containers: Docker, K8s
 - IaC: Terraform
 - CI/CD: Jenkins, GitLab
