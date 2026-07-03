@@ -3,7 +3,7 @@
 ## Skills
 - Cloud: AWS
 - Containers: Docker, K8s
-- IaC: Terraform
+- IaC: Terraform, Ansible
 - CI/CD: Jenkins, GitLab
 
 ## Contact
