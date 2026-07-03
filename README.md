@@ -4,7 +4,7 @@
 - Cloud: AWS
 - Containers: Docker, K8s
 - IaC: Terraform, Ansible
-- CI/CD: Jenkins, GitLab
+- CI/CD: Jenkins, GitLab, GitHub
 
 ## Contact
 - Email: almastv7@gmail.com
