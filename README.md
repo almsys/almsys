@@ -2,7 +2,7 @@
 
 ## Skills
 - Cloud: AWS
-- Containers: Docker, K8s
+- Containers: Docker, K8s, Swarm
 - IaC: Terraform, Ansible, Helm
 - CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD
 - Observability: Grafana, Prometeus, ELK / Loki stack
