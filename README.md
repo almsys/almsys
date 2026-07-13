@@ -5,7 +5,7 @@
 - Containers: Docker, K8s
 - IaC: Terraform, Ansible, Helm
 - CI/CD: Jenkins, GitLab, GitHub
-- Observabilty: Grafana, Prometeus, FluentBit
+- Observability: Grafana, Prometeus, FluentBit
 
 ## Contact
 - Email: almastv7@gmail.com
