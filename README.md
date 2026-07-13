@@ -7,6 +7,7 @@
 - CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD
 - Observability: Grafana, Prometeus, FluentBit
 - Security: Keycloak, Vault
+- Linux: basics, networks
 
 ## Contact
 - Email: almastv7@gmail.com
