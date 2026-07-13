@@ -5,7 +5,7 @@
 - Containers: Docker, K8s
 - IaC: Terraform, Ansible, Helm
 - CI/CD: Jenkins, GitLab CI, GitHub Actions, ArgoCD
-- Observability: Grafana, Prometeus, FluentBit
+- Observability: Grafana, Prometeus, ELK / Loki stack
 - Security: Keycloak, Vault
 - Linux: basics, networks
 
