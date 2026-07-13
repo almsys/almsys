@@ -9,7 +9,7 @@
 
 ## Contact
 - Email: almastv7@gmail.com
-- GitHub: github.com/almsys
-- WP blog: almset.wordpress.com
+- GitHub: https://github.com/almsys
+- WP blog: https://almset.wordpress.com
 
 > Infrastructure as Code | Automation | Cloud
